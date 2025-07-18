@@ -37,4 +37,4 @@ Passionate about cycling 🚴 and sports general.
 </div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,git,powershell,java,js,html,py,nodejs,vscode,docker,aws,gradle,ps,figma,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,git,powershell,java,js,html,py,nodejs,vscode,docker,aws,gradle,ps,figma,)](https://skillicons.dev)

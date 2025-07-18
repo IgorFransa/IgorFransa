@@ -35,3 +35,5 @@ Passionate about cycling 🚴 and sports general.
 ### “The only way to do great work is to love what you do.” – Steve Jobs
 
 </div>
+
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
